@@ -24,6 +24,7 @@ To use this project, you'll need Python installed on your system. Additionally, 
 
 ### Usage
 1.Place your input data files (`customers.txt` and `salestxns.txt`) in the `data` directory
+
 2.The script will process the input data, perform analysis, and generate an output CSV file named `output.csv` in the `data` directory
 
 ## Contributing
